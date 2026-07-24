@@ -13,9 +13,9 @@ const SITE_CONFIG = {
 
   // SNSリンク（未設定の場合は "#" のままでOK。用意でき次第書き換えてください）
   social: {
-    youtube: "#",
-    tiktok: "#",
-    line: "#",
+    youtube: "https://youtube.com/channel/UCUsvXKHcJdgCOM5klXq40Kw?si=jxDn1RFNS-L1YgCG",
+    tiktok: "https://www.tiktok.com/@mandstar777?_r=1&_t=ZS-97kj0vlzVHI",
+    line: "https://lin.ee/VLbPneo",
     wechat: "#"
   }
 };
